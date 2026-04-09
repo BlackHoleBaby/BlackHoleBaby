@@ -1,8 +1,70 @@
-- 👋 Salut , je suis @Gerry MOMBO
-- 👀Je suis intéressé par l'administration système et réseau, aujouté à cela la cybersecurité et enfin de la programmation 
-- 🌱 J'étudie actuellement de le developpemet web via freecodecamp pour des fins de compétences en developpement web/mobile surun parcourt  full stack, aussi la formation de Soc Level 1 de try hack me, et enfin une preparation en autodidacte sur le CCNA à travers Jeremy’s IT Lab via  youtube également  via le site ccnareponses.com
-- 💞️ Je recherche une collaboration en developpement web/Mobile tant pour progresser dans des projets personnels aussi pour apporter mon aide sur des projets venant d'autres horizons, cela va de soit en termes d'administration système, réseau et sécurité
-- 📫 vous pouvez me joindre sur l'adresse gerrymombo@tutamail.com, gerrysemombo@gmail.com
+# 👋 Salut, je suis Gerry MOMBO
+
+Bienvenue sur mon profil GitHub ! Je suis un passionné de technologie avec des intérêts marqués pour la **cybersécurité**, l'**administration système et réseau**, et le **développement web/mobile**.
+
+---
+
+## 👀 À propos de moi
+
+- 🔐 **Domaines d'intérêt** : Cybersécurité, Administration Système & Réseau, Programmation
+- 🌱 **Formation actuelle** : 
+  - Développement Web Full Stack via **FreeCodeCamp**
+  - Rôle SOC Level 1 dans une équipe de cybersécurité
+- 💞️ **Collaboration** : Je suis ouvert à la collaboration sur des projets de développement web/mobile pour progresser ensemble et contribuer à des initiatives communautaires
+- 📍 **Objectif professionnel** : Analyste Cybersécurité & Développeur Full Stack
+
+---
+
+## 🛠️ Stack Technologique & Certifications
+
+### Langages en Apprentissage
+- 💻 **JavaScript** - En cours d'apprentissage (débuté avec FreeCodeCamp)
+- 🐍 **Python** - En apprentissage
+- 🎨 **CSS** - En apprentissage
+
+### Certifications & Badges
+- 🏅 **CCNA 1** - Cisco Certified Network Associate (Niveau 1)
+- 🐧 **NDG Linux Unhatched** - Netacad Linux Certification
+- ☁️ **AWS Cloud Practitioner** - Training Badge
+- 📊 **Analyse SWOT & Planification Stratégique** - Certificat (5 points)
+- 🛡️ **SOC Level 1** - Rôle actif dans une équipe SOC
+
+### Compétences
+- 🔧 Administration Linux
+- 🌐 Réseau & Protocoles
+- 🔍 Monitoring de sécurité
+- 🎓 Apprentissage continu
+
+---
+
+## 🚀 Mes Premiers Projets
+
+En développement... Mon premier projet JavaScript avec **FreeCodeCamp** arrive bientôt ! 👀
+
+---
+
+## 📚 En cours d'apprentissage
+
+- ✅ Développement Web Full Stack (HTML, CSS, JavaScript)
+- ✅ Sécurité des systèmes et réseaux
+- ✅ Architecture cloud (AWS)
+- ✅ Python pour la sécurité et l'automatisation
+
+---
+
+## 📫 Me contacter
+
+- 📧 **Email principal** : gerrymombo@tutamail.com
+- 📧 **Email secondaire** : gerrysemombo@gmail.com
+- 💼 **GitHub** : [@BlackHoleBaby](https://github.com/BlackHoleBaby)
+
+---
+
+## 🎯 Vision
+
+Mon objectif est de développer une expertise combinée en **cybersécurité** et **développement full stack**, en contribuant à des projets significatifs et en aidant la communauté tech à progresser ensemble.
+
+---
 
 <!---
 BlackHoleBaby/BlackHoleBaby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
