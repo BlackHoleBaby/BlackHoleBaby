@@ -18,9 +18,10 @@ Bienvenue sur mon profil GitHub ! Je suis un passionné de technologie avec des 
 ## 🛠️ Stack Technologique & Certifications
 
 ### Langages en Apprentissage
-- 💻 **JavaScript** - En cours d'apprentissage (débuté avec FreeCodeCamp)
+- 💻 **HTML,Css,JavaScript** - En cours d'apprentissage (débuté avec FreeCodeCamp)
 - 🐍 **Python** - En apprentissage
-- 🎨 **CSS** - En apprentissage
+- 🎨 **SQL et PostegreSQL** - En apprentissage
+- 🎨 **Bash** - En apprentissage
 
 ### Certifications & Badges
 - 🏅 **CCNA 1** - Cisco Certified Network Associate (Niveau 1)
