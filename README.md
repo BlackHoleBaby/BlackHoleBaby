@@ -21,7 +21,7 @@ Bienvenue sur mon profil GitHub ! Je suis un passionné de technologie avec des 
 - 💻 **HTML,Css,JavaScript** - En cours d'apprentissage (débuté avec FreeCodeCamp)
 - 🐍 **Python** - En apprentissage
 - 🎨 **SQL et PostegreSQL** - En apprentissage
-- 🎨 **Bash** - En apprentissage
+- 🎨 **Bash** - 
 
 ### Certifications & Badges
 - 🏅 **CCNA 1** - Cisco Certified Network Associate (Niveau 1)
