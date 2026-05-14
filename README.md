@@ -63,7 +63,7 @@ En développement... Mon premier projet JavaScript avec **FreeCodeCamp** arrive 
 
 ## 🎯 Vision
 
-Mon objectif est de développer une expertise combinée en **cybersécurité** et **développement full stack**, en contribuant à des projets significatifs et en aidant la communauté tech à progresser ensemble.
+Mon objectif est de développer une expertise combinée en **cybersécurité**,  **développement web** et en **Cloud** tout en contribuant à des projets significatifs et en aidant la communauté tech à progresser ensemble.
 
 ---
 
