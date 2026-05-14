@@ -1,6 +1,6 @@
 # 👋 Salut, je suis Gerry MOMBO
 
-Bienvenue sur mon profil GitHub ! Je suis un passionné de technologie avec des intérêts marqués pour la **cybersécurité**, l'**administration système et réseau**, et le **développement web/mobile**.
+Bienvenue sur mon profil GitHub ! Je suis un passionné de technologie avec des intérêts marqués pour la **cybersécurité**, l'**administration système et réseau**, et le **développement web**.
 
 ---
 
@@ -50,6 +50,18 @@ Portfolio de mes projets **Web & Mobile** : Frontend, Backend, Full Stack, et ap
 
 ---
 
+### 🖥️ [Administration Système & Réseau](https://github.com/BlackHoleBaby/sysadmin-network)
+Portfolio de mes projets en **Administration Système & Réseau** : Configuration Linux/Windows, gestion de réseau, virtualisation, et automatisation infrastructure.
+- 🐧 Administration Linux & Windows Server
+- 🌐 Configuration & Gestion de Réseaux
+- 🔧 Virtualisation (VMware, Proxmox)
+- ⚙️ Automatisation Infrastructure & Scripts
+- 📋 Planification & Maintenance Système
+
+**[Découvrez mes projets sysadmin →](https://github.com/BlackHoleBaby/sysadmin-network)**
+
+---
+
 ## 🛠️ Stack Technologique & Certifications
 
 ### Langages en Apprentissage
@@ -94,12 +106,13 @@ Portfolio de mes projets **Web & Mobile** : Frontend, Backend, Full Stack, et ap
   - [Cybersecurity](https://github.com/BlackHoleBaby/cybersecurity)
   - [Cloud](https://github.com/BlackHoleBaby/cloud)
   - [Web Development](https://github.com/BlackHoleBaby/web-development)
+  - [Administration Système & Réseau](https://github.com/BlackHoleBaby/sysadmin-network)
 
 ---
 
 ## 🎯 Vision
 
-Mon objectif est de développer une expertise combinée en **cybersécurité**, **développement full stack** et **cloud computing**, en contribuant à des projets significatifs et en aidant la communauté tech à progresser. Chaque domaine représente une partie de ma stratégie de croissance professionnelle.
+Mon objectif est de développer une expertise combinée en **cybersécurité**, **développement full stack**, **cloud computing** et **administration système & réseau**, en contribuant à des projets significatifs et en aidant la communauté technologique.
 
 ---
 
