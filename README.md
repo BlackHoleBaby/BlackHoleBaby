@@ -15,13 +15,48 @@ Bienvenue sur mon profil GitHub ! Je suis un passionné de technologie avec des 
 
 ---
 
+## 🚀 Mes Domaines de Spécialisation
+
+### 🛡️ [Cybersecurity](https://github.com/BlackHoleBaby/cybersecurity)
+Portfolio de mes projets en **cybersécurité** : SOC monitoring, incident response, hardening système, analyse de menaces, et scripts de sécurité.
+- 🔍 SOC Monitoring & Log Analysis
+- 🛡️ Network Security & Hardening
+- 🚨 Incident Response Playbooks
+- 🐍 Python Security Scripts
+
+**[Découvrez mes projets de cybersécurité →](https://github.com/BlackHoleBaby/cybersecurity)**
+
+---
+
+### ☁️ [Cloud](https://github.com/BlackHoleBaby/cloud)
+Portfolio de mes projets **Cloud & DevOps** : Infrastructure AWS, containerisation, orchestration Kubernetes, et automatisation.
+- 🏗️ AWS Infrastructure & Terraform
+- 🐳 Docker & Kubernetes
+- ⚡ Serverless Applications (Lambda, API Gateway)
+- 🔄 CI/CD Pipelines
+
+**[Découvrez mes projets cloud →](https://github.com/BlackHoleBaby/cloud)**
+
+---
+
+### 🌐 [Web Development](https://github.com/BlackHoleBaby/web-development)
+Portfolio de mes projets **Web & Mobile** : Frontend, Backend, Full Stack, et applications progressives.
+- 💻 Frontend (HTML, CSS, JavaScript, React)
+- 🖥️ Backend (Node.js, Express, PostgreSQL)
+- 📱 Full Stack Applications
+- 🚀 Projets FreeCodeCamp
+
+**[Découvrez mes projets web →](https://github.com/BlackHoleBaby/web-development)**
+
+---
+
 ## 🛠️ Stack Technologique & Certifications
 
 ### Langages en Apprentissage
-- 💻 **HTML,Css,JavaScript** - En cours d'apprentissage (débuté avec FreeCodeCamp)
+- 💻 **HTML, CSS, JavaScript** - En cours d'apprentissage (débuté avec FreeCodeCamp)
 - 🐍 **Python** - En apprentissage
-- 🎨 **SQL et PostegreSQL** - En apprentissage
-- 🎨 **Bash** - 
+- 🎨 **SQL et PostgreSQL** - En apprentissage
+- 🎨 **Bash** - En apprentissage
 
 ### Certifications & Badges
 - 🏅 **CCNA 1** - Cisco Certified Network Associate (Niveau 1)
@@ -34,13 +69,9 @@ Bienvenue sur mon profil GitHub ! Je suis un passionné de technologie avec des 
 - 🔧 Administration Linux
 - 🌐 Réseau & Protocoles
 - 🔍 Monitoring de sécurité
+- ☁️ Architecture Cloud
+- 📊 Analyse de données
 - 🎓 Apprentissage continu
-
----
-
-## 🚀 Mes Premiers Projets
-
-En développement... Mon premier projet JavaScript avec **FreeCodeCamp** arrive bientôt ! 👀
 
 ---
 
@@ -50,6 +81,7 @@ En développement... Mon premier projet JavaScript avec **FreeCodeCamp** arrive 
 - ✅ Sécurité des systèmes et réseaux
 - ✅ Architecture cloud (AWS)
 - ✅ Python pour la sécurité et l'automatisation
+- ✅ Containerisation (Docker & Kubernetes)
 
 ---
 
@@ -58,12 +90,16 @@ En développement... Mon premier projet JavaScript avec **FreeCodeCamp** arrive 
 - 📧 **Email principal** : gerrymombo@tutamail.com
 - 📧 **Email secondaire** : gerrysemombo@gmail.com
 - 💼 **GitHub** : [@BlackHoleBaby](https://github.com/BlackHoleBaby)
+- 🔗 **Repositories spécialisés** :
+  - [Cybersecurity](https://github.com/BlackHoleBaby/cybersecurity)
+  - [Cloud](https://github.com/BlackHoleBaby/cloud)
+  - [Web Development](https://github.com/BlackHoleBaby/web-development)
 
 ---
 
 ## 🎯 Vision
 
-Mon objectif est de développer une expertise combinée en **cybersécurité**,  **développement web** et en **Cloud** tout en contribuant à des projets significatifs et en aidant la communauté tech à progresser ensemble.
+Mon objectif est de développer une expertise combinée en **cybersécurité**, **développement full stack** et **cloud computing**, en contribuant à des projets significatifs et en aidant la communauté tech à progresser. Chaque domaine représente une partie de ma stratégie de croissance professionnelle.
 
 ---
 
