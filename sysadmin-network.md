@@ -1,37 +1,27 @@
 # 🖥️ Administration Système & Réseau
 
-Bienvenue dans mon espace de projets dédié à l'**administration système** et à l'**administration réseau**.
+Bienvenue dans mon portfolio consacré à l’administration des systèmes et des réseaux. Les liens ci-dessous ouvrent des fiches projets qui présentent pour chacun les objectifs, les grandes étapes de réalisation et les livrables à documenter.
 
-Je travaille sur des infrastructures fiables, sécurisées et performantes, avec une approche orientée **automatisation**, **maintenance** et **résilience**.
-
----
+> **À noter :** ces fiches constituent une trame de présentation. Elles sont à compléter avec les configurations, captures d’écran, résultats et dépôts correspondant aux réalisations effectivement menées.
 
 ## ⚙️ Administration système
 
-Cette section regroupe mes projets liés à la gestion, la maintenance et l'optimisation des environnements système.
-
-- 🐧 Administration Linux et Windows Server
-- 👤 Gestion des utilisateurs, groupes et permissions
-- 🧱 Virtualisation avec VMware, Proxmox et environnements de test
-- 🔧 Installation, configuration et maintenance des services
-- 🛠️ Automatisation avec Bash, PowerShell et Python
-- 📦 Sauvegarde, supervision et gestion des ressources
-
----
+- 🐧 [Administration Linux et Windows Server](projets-sysadmin.md#administration-linux-et-windows-server)
+- 👥 [Gestion des utilisateurs et des permissions](projets-sysadmin.md#gestion-des-utilisateurs-et-des-permissions)
+- 🧱 [Virtualisation avec VMware ou Proxmox](projets-sysadmin.md#virtualisation-avec-vmware-ou-proxmox)
+- 🔧 [Déploiement et configuration de services](projets-sysadmin.md#deploiement-et-configuration-de-services)
+- 🤖 [Automatisation avec Bash, PowerShell et Python](projets-sysadmin.md#automatisation-avec-bash-powershell-et-python)
+- 📦 [Sauvegarde et supervision système](projets-sysadmin.md#sauvegarde-et-supervision-systeme)
 
 ## 🌐 Administration réseau
 
-Cette section regroupe mes travaux autour de la conception, configuration et sécurisation des réseaux.
-
-- 🌍 Configuration des réseaux locaux et distants
-- 🔁 Adressage IP, sous-réseaux, routage et commutation
-- 🧩 DNS, DHCP, VLAN et services réseau
-- 🔐 Sécurisation des infrastructures et bonnes pratiques
-- 🚨 Diagnostic, dépannage et optimisation des performances
-- 📘 Documentation technique et architecture réseau
+- 🏢 [Conception d’un réseau local](projets-sysadmin.md#conception-dun-reseau-local)
+- 🔀 [Adressage IP, sous-réseaux et routage](projets-sysadmin.md#adressage-ip-sous-reseaux-et-routage)
+- 🧩 [Mise en place de DNS, DHCP et VLAN](projets-sysadmin.md#mise-en-place-de-dns-dhcp-et-vlan)
+- 🔐 [Sécurisation d’une infrastructure réseau](projets-sysadmin.md#securisation-dune-infrastructure-reseau)
+- 🧰 [Diagnostic et dépannage réseau](projets-sysadmin.md#diagnostic-et-depannage-reseau)
+- 🗺️ [Documentation d’une infrastructure réseau](projets-sysadmin.md#documentation-dune-infrastructure-reseau)
 
 ---
 
-## 🎯 Objectif
-
-Développer des compétences solides en administration système et réseau, en mettant l'accent sur la **fiabilité**, la **sécurité** et l'**automation des infrastructures**.
+[← Retour au profil GitHub](README.md)
