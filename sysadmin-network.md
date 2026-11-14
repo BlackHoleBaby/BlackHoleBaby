@@ -1,23 +1,37 @@
-# Administration système & réseau
+# 🖥️ Administration Système & Réseau
 
-Retrouvez ici mes projets et travaux autour de l’administration des systèmes et des réseaux, organisés en deux domaines.
+Bienvenue dans mon espace de projets dédié à l'**administration système** et à l'**administration réseau**.
 
-## 🖥️ Administration système
+Je travaille sur des infrastructures fiables, sécurisées et performantes, avec une approche orientée **automatisation**, **maintenance** et **résilience**.
 
-Cette section regroupe les travaux liés à l’installation, la configuration, la maintenance et l’automatisation des systèmes.
+---
 
-- Administration Linux et Windows Server
-- Gestion des utilisateurs, des services et des permissions
-- Virtualisation avec VMware ou Proxmox
-- Automatisation et scripts, notamment avec Bash et Python
-- Supervision, sauvegardes et maintenance système
+## ⚙️ Administration système
+
+Cette section regroupe mes projets liés à la gestion, la maintenance et l'optimisation des environnements système.
+
+- 🐧 Administration Linux et Windows Server
+- 👤 Gestion des utilisateurs, groupes et permissions
+- 🧱 Virtualisation avec VMware, Proxmox et environnements de test
+- 🔧 Installation, configuration et maintenance des services
+- 🛠️ Automatisation avec Bash, PowerShell et Python
+- 📦 Sauvegarde, supervision et gestion des ressources
+
+---
 
 ## 🌐 Administration réseau
 
-Cette section regroupe les travaux liés à la conception, la configuration, la sécurisation et au dépannage des réseaux.
+Cette section regroupe mes travaux autour de la conception, configuration et sécurisation des réseaux.
 
-- Configuration et gestion des équipements réseau
-- Adressage IP, sous-réseaux, routage et commutation
-- Services réseau : DNS, DHCP et VPN
-- Segmentation, pare-feu et dépannage réseau
-- Documentation et supervision des réseaux
+- 🌍 Configuration des réseaux locaux et distants
+- 🔁 Adressage IP, sous-réseaux, routage et commutation
+- 🧩 DNS, DHCP, VLAN et services réseau
+- 🔐 Sécurisation des infrastructures et bonnes pratiques
+- 🚨 Diagnostic, dépannage et optimisation des performances
+- 📘 Documentation technique et architecture réseau
+
+---
+
+## 🎯 Objectif
+
+Développer des compétences solides en administration système et réseau, en mettant l'accent sur la **fiabilité**, la **sécurité** et l'**automation des infrastructures**.
