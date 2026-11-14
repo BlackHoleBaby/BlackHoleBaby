@@ -1,18 +1,122 @@
-### 🖥️ Administration Système & Réseau
+# 👋 Salut, je suis Gerry MOMBO
 
-Portfolio de projets autour de la conception, du déploiement et de la maintenance d’infrastructures fiables et sécurisées.
+Bienvenue sur mon profil GitHub ! Je suis un passionné de technologie avec des intérêts marqués pour la **cybersécurité**, l'**administration système et réseau**, et le **développement web**.
 
-- ⚙️ [Administration Linux et Windows Server](projets-sysadmin.md#administration-linux-et-windows-server)
-- 👥 [Gestion des utilisateurs et des permissions](projets-sysadmin.md#gestion-des-utilisateurs-et-des-permissions)
-- 🧱 [Virtualisation avec VMware ou Proxmox](projets-sysadmin.md#virtualisation-avec-vmware-ou-proxmox)
-- 🔧 [Déploiement et configuration de services](projets-sysadmin.md#deploiement-et-configuration-de-services)
-- 🤖 [Automatisation avec Bash, PowerShell et Python](projets-sysadmin.md#automatisation-avec-bash-powershell-et-python)
-- 📦 [Sauvegarde et supervision système](projets-sysadmin.md#sauvegarde-et-supervision-systeme)
-- 🌐 [Conception d’un réseau local](projets-sysadmin.md#conception-dun-reseau-local)
-- 🔀 [Adressage IP, sous-réseaux et routage](projets-sysadmin.md#adressage-ip-sous-reseaux-et-routage)
-- 🧩 [Mise en place de DNS, DHCP et VLAN](projets-sysadmin.md#mise-en-place-de-dns-dhcp-et-vlan)
-- 🔐 [Sécurisation d’une infrastructure réseau](projets-sysadmin.md#securisation-dune-infrastructure-reseau)
-- 🧰 [Diagnostic et dépannage réseau](projets-sysadmin.md#diagnostic-et-depannage-reseau)
-- 🗺️ [Documentation d’une infrastructure réseau](projets-sysadmin.md#documentation-dune-infrastructure-reseau)
+---
 
-**[Découvrir les fiches projets et leur démarche de réalisation →](projets-sysadmin.md)**
+## 👀 À propos de moi
+
+- 🔐 **Domaines d'intérêt** : Cybersécurité, Administration Système & Réseau, Programmation
+- 🌱 **Formation actuelle** : 
+  - Développement Web Full Stack via **FreeCodeCamp**
+  - Rôle SOC Level 1 dans une équipe de cybersécurité
+- 💞️ **Collaboration** : Je suis ouvert à la collaboration sur des projets de développement web/mobile pour progresser ensemble et contribuer à des initiatives communautaires
+- 📍 **Objectif professionnel** : Analyste Cybersécurité & Développeur Full Stack
+
+---
+
+## 🚀 Mes Domaines de Spécialisation
+
+### 🛡️ [Cybersecurity](https://github.com/BlackHoleBaby/cybersecurity)
+Portfolio de mes projets en **cybersécurité** : SOC monitoring, incident response, hardening système, analyse de menaces, et scripts de sécurité.
+- 🔍 SOC Monitoring & Log Analysis
+- 🛡️ Network Security & Hardening
+- 🚨 Incident Response Playbooks
+- 🐍 Python Security Scripts
+
+**[Découvrez mes projets de cybersécurité →](https://github.com/BlackHoleBaby/cybersecurity)**
+
+---
+
+### ☁️ [Cloud](https://github.com/BlackHoleBaby/cloud)
+Portfolio de mes projets **Cloud & DevOps** : Infrastructure AWS, containerisation, orchestration Kubernetes, et automatisation.
+- 🏗️ AWS Infrastructure & Terraform
+- 🐳 Docker & Kubernetes
+- ⚡ Serverless Applications (Lambda, API Gateway)
+- 🔄 CI/CD Pipelines
+
+**[Découvrez mes projets cloud →](https://github.com/BlackHoleBaby/cloud)**
+
+---
+
+### 🌐 [Web Development](https://github.com/BlackHoleBaby/web-development)
+Portfolio de mes projets **Web & Mobile** : Frontend, Backend, Full Stack, et applications progressives.
+- 💻 Frontend (HTML, CSS, JavaScript, React)
+- 🖥️ Backend (Node.js, Express, PostgreSQL)
+- 📱 Full Stack Applications
+- 🚀 Projets FreeCodeCamp
+
+**[Découvrez mes projets web →](https://github.com/BlackHoleBaby/web-development)**
+
+---
+
+### 🖥️ [Administration Système & Réseau](https://github.com/BlackHoleBaby/sysadmin-network)
+Portfolio de mes projets en **Administration Système & Réseau** : Configuration Linux/Windows, gestion de réseau, virtualisation, et automatisation infrastructure.
+- 🐧 Administration Linux & Windows Server
+- 🌐 Configuration & Gestion de Réseaux
+- 🔧 Virtualisation (VMware, Proxmox)
+- ⚙️ Automatisation Infrastructure & Scripts
+- 📋 Planification & Maintenance Système
+
+**[Découvrez mes projets sysadmin →](https://github.com/BlackHoleBaby/sysadmin-network)**
+
+---
+
+## 🛠️ Stack Technologique & Certifications
+
+### Langages en Apprentissage
+- 💻 **HTML, CSS, JavaScript** - En cours d'apprentissage (débuté avec FreeCodeCamp)
+- 🐍 **Python** - En apprentissage
+- 🎨 **SQL et PostgreSQL** - En apprentissage
+- 🎨 **Bash** - En apprentissage
+
+### Certifications & Badges
+- 🏅 **CCNA 1** - Cisco Certified Network Associate (Niveau 1)
+- 🐧 **NDG Linux Unhatched** - Netacad Linux Certification
+- ☁️ **AWS Cloud Practitioner** - Training Badge
+- 📊 **Analyse SWOT & Planification Stratégique** - Certificat (5 points)
+- 🛡️ **SOC Level 1** - Rôle actif dans une équipe SOC
+
+### Compétences
+- 🔧 Administration Linux
+- 🌐 Réseau & Protocoles
+- 🔍 Monitoring de sécurité
+- ☁️ Architecture Cloud
+- 📊 Analyse de données
+- 🎓 Apprentissage continu
+
+---
+
+## 📚 En cours d'apprentissage
+
+- ✅ Développement Web Full Stack (HTML, CSS, JavaScript)
+- ✅ Sécurité des systèmes et réseaux
+- ✅ Architecture cloud (AWS)
+- ✅ Python pour la sécurité et l'automatisation
+- ✅ Containerisation (Docker & Kubernetes)
+
+---
+
+## 📫 Me contacter
+
+- 📧 **Email principal** : gerrymombo@tutamail.com
+- 📧 **Email secondaire** : gerrysemombo@gmail.com
+- 💼 **GitHub** : [@BlackHoleBaby](https://github.com/BlackHoleBaby)
+- 🔗 **Repositories spécialisés** :
+  - [Cybersecurity](https://github.com/BlackHoleBaby/cybersecurity)
+  - [Cloud](https://github.com/BlackHoleBaby/cloud)
+  - [Web Development](https://github.com/BlackHoleBaby/web-development)
+  - [Administration Système & Réseau](https://github.com/BlackHoleBaby/sysadmin-network)
+
+---
+
+## 🎯 Vision
+
+Mon objectif est de développer une expertise combinée en **cybersécurité**, **développement full stack**, **cloud computing** et **administration système & réseau**, en contribuant à des projets significatifs et en aidant la communauté technologique.
+
+---
+
+<!---
+BlackHoleBaby/BlackHoleBaby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
